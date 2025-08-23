@@ -1,3 +1,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sdemey00?theme=dark)
 
-![Logo 42](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg)
+<img src="https://leetcard.jacoblin.cool/TON_PSEUDO?theme=dark&ext=heatmap" width="400" />
+
