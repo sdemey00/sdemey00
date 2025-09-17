@@ -30,6 +30,7 @@
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
              width="500" 
              alt="LeetCode Stats" />
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 /></a>
       </div>
       <br><br><br>
       <div align="right">
