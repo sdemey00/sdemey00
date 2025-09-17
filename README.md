@@ -28,7 +28,7 @@
     <td valign="top">
       <div align="center">
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
-             width="500" 
+             width="400" 
              alt="LeetCode Stats" />
       </div>
       <br><br><br>
