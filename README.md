@@ -28,14 +28,14 @@
     <td valign="top">
       <div align="center">
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
-             width="400" 
+             width="500" 
              alt="LeetCode Stats" />
       </div>
       <br><br><br>
       <div align="right">
         <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" 
              alt="Campus 19 Logo" 
-             width="150" />
+             width="100" />
       </div>
     </td>
   </tr>
