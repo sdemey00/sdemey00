@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <!-- Colonne gauche : Logos des compétences -->
     <td valign="top">
@@ -30,7 +30,10 @@
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
              width="500" 
              alt="LeetCode Stats" />
-          <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" 
+      </div>
+      <br><br><br>
+      <div align="right">
+        <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" 
              alt="Campus 19 Logo" 
              width="100" />
       </div>
