@@ -22,7 +22,7 @@
   <div style="display: flex; flex-direction: column; gap: 25px; flex: 1;">
     <div>
       <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
-           width="200" 
+           width="400" 
            alt="LeetCode Stats" 
            style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
     </div>
