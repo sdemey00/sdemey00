@@ -25,7 +25,7 @@
       </div>
     </td>
     <!-- Colonne droite : Stats et logo -->
-    <td valign="right">
+    <td valign="top">
       <div align="center">
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
              width="650" 
@@ -34,3 +34,7 @@
     </td>
   </tr>
 </table>
+        <br><br>
+        <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" 
+             alt="Campus 19 Logo" 
+             width="150" />
