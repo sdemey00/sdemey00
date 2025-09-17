@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start; gap: 50px;">
   <!-- Colonne gauche : Compétences -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 20px; justify-content: flex-start;">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" alt="C" />
     </a>
@@ -19,7 +19,7 @@
   </div>
 
   <!-- Colonne droite : Stats et logo -->
-  <div style="display: flex; flex-direction: column; gap: 30px;">
+  <div style="display: flex; flex-direction: column; gap: 30px; justify-content: flex-start;">
     <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" width="400" alt="LeetCode Stats" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
     <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" alt="Campus 19 Logo" width="150" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);" />
   </div>
