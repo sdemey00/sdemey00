@@ -25,7 +25,7 @@
       </div>
     </td>
     <!-- Colonne droite : Stats et logo -->
-    <td valign="top">
+    <td valign="right">
       <div align="center">
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
              width="500" 
