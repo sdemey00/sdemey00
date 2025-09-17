@@ -24,13 +24,15 @@
         </a>
       </div>
     </td>
-    <!-- Colonne droite : Stats et logo -->
+    <!-- Colonne droite : Stats en haut, logo en bas à droite -->
     <td valign="top">
       <div align="center">
         <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
              width="400" 
              alt="LeetCode Stats" />
-        <br><br>
+      </div>
+      <br><br><br>
+      <div align="right">
         <img src="https://land.campus19.be/wp-content/uploads/2024/08/cropped-Design-sans-titre-26.png" 
              alt="Campus 19 Logo" 
              width="150" />
@@ -38,4 +40,3 @@
     </td>
   </tr>
 </table>
-
