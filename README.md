@@ -6,9 +6,7 @@
     </a>
   </span>
   <span style="display: inline-block; margin: 10px; padding: 10px; border-radius: 10px; background: #f5f5f5;">
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="50" alt="Bash" /><br>Bash
-    </a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"></a>
   </span>
   <span style="display: inline-block; margin: 10px; padding: 10px; border-radius: 10px; background: #f5f5f5;">
     <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">
