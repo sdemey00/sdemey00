@@ -33,7 +33,7 @@
       </div>
       <br><br><br>
       <div align="right">
-        <img src="https://en.wikipedia.org/wiki/File:42_Logo.svg" 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" 
              alt="42 Logo" 
              width="100" />
       </div>
