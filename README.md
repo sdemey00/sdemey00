@@ -26,12 +26,6 @@
     </td>
     <!-- Colonne droite : Stats en haut, logo en bas à droite -->
     <td valign="top">
-      <div align="center">
-        <img src="https://leetcard.jacoblin.cool/sdemey00?theme=wtf" 
-             width="500" 
-             alt="LeetCode Stats" />
-      </div>
-      <br><br><br>
       <div align="right">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" 
              alt="42 Logo" 
