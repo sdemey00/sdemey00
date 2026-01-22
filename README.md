@@ -1,6 +1,5 @@
 <table align="center">
   <tr>
-    <!-- Colonne gauche : Logos des compétences -->
     <td valign="top">
       <div align="center">
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -26,7 +25,7 @@
     </td>
     <td valign="top">
       <div align="right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo"  />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo"  width=400 />
       </div>
     </td>
   </tr>
