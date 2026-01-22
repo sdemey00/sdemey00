@@ -1,8 +1,3 @@
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=40 algin="left"/>
-</div>
-
-
 <div align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" />
@@ -25,5 +20,9 @@ Software developer focused on low-level programming and systems.
 ## Currently
 - Studying at 42 Belgium
 - Building strong foundations in systems and software architecture
+
+<div align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=40 algin="left"/>
+</div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width="240" /> -->
