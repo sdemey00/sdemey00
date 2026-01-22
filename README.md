@@ -24,12 +24,9 @@
         </a>
       </div>
     </td>
-    <!-- Colonne droite : Stats en haut, logo en bas à droite -->
     <td valign="top">
       <div align="right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" 
-             alt="42 Logo" 
-             width="100" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo"  />
       </div>
     </td>
   </tr>
