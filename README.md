@@ -7,6 +7,10 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
 </div>
 
+<div align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
+</div>
+
 # sdemey
 
 Software developer focused on low-level programming and systems.
@@ -20,9 +24,5 @@ Software developer focused on low-level programming and systems.
 ## Currently
 - Studying at 42 Belgium
 - Building strong foundations in systems and software architecture
-
-<div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
-</div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width="240" /> -->
