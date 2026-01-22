@@ -11,18 +11,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
 </div>
 
-# sdemey
-
-Software developer focused on low-level programming and systems.
-
-- C / C++
-- Linux, systems programming
-- Networking
-- Computer graphics
-- Performance-oriented code
-
-## Currently
-- Studying at 42 Belgium
-- Building strong foundations in systems and software architecture
-
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width="240" /> -->
