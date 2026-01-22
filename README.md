@@ -5,11 +5,11 @@
 
 <div align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"
     width="40" />
 </div>
 
