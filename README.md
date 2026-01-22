@@ -25,7 +25,7 @@
     </td>
     <td valign="top">
       <div align="right">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo"  width=400 />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo"  width=100 />
       </div>
     </td>
   </tr>
