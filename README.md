@@ -10,7 +10,7 @@
 </div>
 
 ---
-*Currently studying at 42 and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
+*Currently studying at 42 Belgium and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
 
 I began learning programming in February 2025 as part of a career transition. Since then I have been approaching software development as a continuous learning process.
 Most projects in this repository are experiments or learning milestones. I use them to explore different areas of low-level programming, from systems and networking to graphics, with the goal of gradually building a deeper understanding of how software works close to the machine.
