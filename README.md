@@ -21,7 +21,7 @@ I began learning programming in February 2025 as part of a career transition. Si
 Most projects in this repository are experiments or learning milestones. I use them to explore different areas of low-level programming, from systems and networking to graphics, with the goal of gradually building a deeper understanding of how software works close to the machine.
 The focus is not only on delivering perfect projects, but on experimenting, understanding the underlying mechanisms, and doing my best to continuously improving.
 
-While my main focus has been low-level programming, I am also exploring computer science more broadly. I began with no prior experience and am enjoying the process of learning, experimenting, and understanding software at multiple levels.
+While my main focus has been low-level programming, I am also exploring computer science more broadly. I began with no prior experience and I am enjoying the process of learning, experimenting, and understanding software at multiple levels.
 ## Technical Focus
 
 - Systems programming (Linux / POSIX)
