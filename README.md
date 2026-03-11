@@ -1,3 +1,15 @@
+<div align="center">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
+</div>
+
+---
 *Currently studying at 42 and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
 
 I began learning programming in February 2025 as part of a career transition. Since then I have been approaching software development as a continuous learning process.
@@ -15,18 +27,7 @@ The focus is not only on deliver perfect projects, but on experimenting, underst
 
 Advanced C/C++ • Network architecture • Operating system internals • Cybersecurity concepts • Web development
 
----
 
-<div align="center">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
-</div>
 
 <div align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
