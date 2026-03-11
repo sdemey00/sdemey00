@@ -9,6 +9,10 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
 </div>
 
+<div align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
+</div>
+
 ---
 *Currently studying at 42 Belgium and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
 
@@ -29,9 +33,5 @@ While my main focus has been low-level programming, I am also exploring computer
 Advanced C/C++ • Network architecture • Operating system internals • Cybersecurity concepts • Web development
 
 
-
-<div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
-</div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width="240" /> -->
