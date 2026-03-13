@@ -8,9 +8,11 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
 </div>
-
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 />
+</div> -->
 <div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width=80 algin="left"/>
+  <img src="https://cdn.brandfetch.io/idyW54xW9w/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1768254948655" alt="42 Logo" width=80 algin="left"/>
 </div>
 
 *Currently studying at 42 Belgium and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
