@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 />
+</div>
+
 <div align="center">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" />
@@ -8,9 +12,8 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
 </div>
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 />
-</div> -->
+<br><b></b>
+
 <div align="right">
   <img src="https://cdn.brandfetch.io/idyW54xW9w/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1768254948655" alt="42 Logo" width=80 algin="left"/>
 </div>
