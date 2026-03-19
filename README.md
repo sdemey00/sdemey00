@@ -12,6 +12,7 @@
 <div align="right">
   <img src="https://cdn.brandfetch.io/idyW54xW9w/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1768254948655" alt="42 Logo" width=80 algin="left"/>
 </div>
+<br><b></b>
 
 *Currently studying at 42 Belgium and building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
 
