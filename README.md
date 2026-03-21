@@ -5,9 +5,9 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" width="40" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" width="40" />
 </div>
 <div align="right">
   <img src="https://cdn.brandfetch.io/idyW54xW9w/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1768254948655" alt="42 Logo" width=80 algin="left"/>
