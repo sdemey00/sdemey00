@@ -36,4 +36,6 @@ My goal is to become a versatile, reliable developer who can adapt, solve proble
 
 Advanced C/C++ • Network architecture • Operating system internals • Cybersecurity concepts • Web development
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width="240" /> -->
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 />
+</div> -->
