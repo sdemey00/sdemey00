@@ -36,6 +36,9 @@ My goal is to become a versatile, reliable developer who can adapt, solve proble
 
 Advanced C/C++ • Network architecture • Operating system internals • Cybersecurity concepts • Web development
 
+<br><b></b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdemey00&layout=compact&theme=dark" width=240 />
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdemey00&layout=compact&langs_count=8&card_width=820&theme=tokyonight" />
+    </a>
 </div> 
