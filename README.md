@@ -18,15 +18,9 @@
 
 ---
 
-I began learning programming in February 2025 as part of a career transition and have since focused on developing a strong foundation in low-level software development.
+I began learning programming in February 2025 as part of a career transition. Since then I have been approaching software development as a continuous learning process. Most projects in this repository are 42 projects, experiments or learning milestones. I use them to explore different areas of low-level programming, from systems and networking to graphics, with the goal of gradually building a deeper understanding of how software works close to the machine. The focus is not only on delivering perfect projects, but on experimenting, understanding the underlying mechanisms, and doing my best to continuously improving.
 
-My work centers primarily on systems programming, networking, and graphics. Through hands-on projects, I explore how software interacts with the operating system and hardware, implementing components such as network servers, Unix-like environments, and rendering engines. These projects emphasize memory management, debugging, process control, and performance-aware programming in C and C++ on Linux systems.
-
-Most repositories in this profile document my progression through increasingly complex projects. They reflect an iterative learning process where experimentation, understanding underlying mechanisms, and improving software design are central objectives.
-
-While my primary interest lies in systems and low-level programming, I continue exploring computer science more broadly to strengthen my understanding of software architecture and infrastructure.
-
-My goal is to grow into a reliable systems engineer capable of building robust, performance-critical software and contributing to complex technical projects.
+While my main focus has been low-level programming, I am also exploring computer science more broadly. I began with no prior experience and am enjoying the process of learning, experimenting, and understanding software at multiple levels, expanding my knowledge and applying it to real projects.
 
 ## Technical Focus
 
