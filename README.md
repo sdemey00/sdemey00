@@ -15,7 +15,7 @@
 </div>
 <br><b></b>
 
-*Currently studying at 42 Belgium in the advenced program, building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
+*Currently studying at 42 Belgium in the advanced program, building projects centered on C/C++ development, rendering algorithms, and Linux systems.*
 
 ---
 
